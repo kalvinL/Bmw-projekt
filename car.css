@@ -1,0 +1,8 @@
+.header {
+    height: 95vh;
+    background-image: linear-gradient(to bottom right,
+    var(--light-color), var(--medium-color)), url('../../img/bmw-e92-m3-road-legal-race-car-is-yummy-105505-7.jpg');
+    background-position: top;
+    background-size: cover;
+    clip-path: polygon(0 0, 100% 17%, 100% 100%, 0 100%);
+}
